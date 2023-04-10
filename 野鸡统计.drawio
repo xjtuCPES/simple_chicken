@@ -1,9 +1,24 @@
-<mxfile host="app.diagrams.net" modified="2023-04-10T02:59:09.721Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" version="21.1.5" etag="7NEM2a9J1To6wApXXc49" type="github">
+<mxfile host="app.diagrams.net" modified="2023-04-10T03:01:01.599Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="VAtS9kz1GkHQjdM-UR8V" version="21.1.5" type="github">
   <diagram name="第 1 页" id="NjdpFko7AFxfdka7eMdT">
-    <mxGraphModel>
+    <mxGraphModel dx="1434" dy="796" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="QugaVd1Dq6D5i6cjHYeo-1" value="雪松" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=top;spacing=2;" vertex="1" parent="1">
+          <mxGeometry x="40" y="190" width="260" height="370" as="geometry" />
+        </mxCell>
+        <mxCell id="QugaVd1Dq6D5i6cjHYeo-2" value="泽龙" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=top;spacing=2;" vertex="1" parent="1">
+          <mxGeometry x="320" y="190" width="260" height="370" as="geometry" />
+        </mxCell>
+        <mxCell id="QugaVd1Dq6D5i6cjHYeo-3" value="厚薄" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=top;spacing=2;" vertex="1" parent="1">
+          <mxGeometry x="600" y="190" width="260" height="370" as="geometry" />
+        </mxCell>
+        <mxCell id="QugaVd1Dq6D5i6cjHYeo-4" value="污水厂" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;" vertex="1" parent="1">
+          <mxGeometry x="60" y="260" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="QugaVd1Dq6D5i6cjHYeo-7" value="永济节能" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="280" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
