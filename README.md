@@ -1,5 +1,14 @@
 # simple_chicken
-统计一下半自动团队目前研一每个人都算了那些野鸡测算
+统计一下半自动团队目前研一同学已经算了那些测算
+
+
+
+
+[![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
+
+[![forthebadge](Img/powered-by-guo.svg)](https://github.com/gwyxjtu)
+
+
 例如：
 
 
