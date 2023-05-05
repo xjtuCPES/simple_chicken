@@ -6,7 +6,7 @@
 
 [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
 
-[![forthebadge](Img/powered-by-guo.svg)](https://github.com/gwyxjtu)
+[![forthebadge](/powered-by-guo.svg)](https://github.com/gwyxjtu)
 
 [![forthebadge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](gwyxjtu@gmail.com)
 
