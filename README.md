@@ -8,8 +8,9 @@
 
 [![forthebadge](Img/powered-by-guo.svg)](https://github.com/gwyxjtu)
 
+[![forthebadge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](gwyxjtu@gmail.com)
 
-例如：
+## chicken_table
 
 
 |  测算分支   | 开始时间  | 测算人员 | 测算内容 |测算重点&经验 |测算最新版本时间 |最新版本号|
